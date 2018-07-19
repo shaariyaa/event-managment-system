@@ -1,0 +1,18 @@
+C:\Users\Shaa riya\documents\visual studio 2010\Projects\final prjct (sharia atif bs3A)\final prjct (sharia atif bs3A)\obj\x86\Debug\final_prjct.addevnt.resources
+C:\Users\Shaa riya\documents\visual studio 2010\Projects\final prjct (sharia atif bs3A)\final prjct (sharia atif bs3A)\obj\x86\Debug\final_prjct.custrecd.resources
+C:\Users\Shaa riya\documents\visual studio 2010\Projects\final prjct (sharia atif bs3A)\final prjct (sharia atif bs3A)\obj\x86\Debug\final_prjct.evntfees.resources
+C:\Users\Shaa riya\documents\visual studio 2010\Projects\final prjct (sharia atif bs3A)\final prjct (sharia atif bs3A)\obj\x86\Debug\final_prjct.evntinfo.resources
+C:\Users\Shaa riya\documents\visual studio 2010\Projects\final prjct (sharia atif bs3A)\final prjct (sharia atif bs3A)\obj\x86\Debug\final_prjct.Form1.resources
+C:\Users\Shaa riya\documents\visual studio 2010\Projects\final prjct (sharia atif bs3A)\final prjct (sharia atif bs3A)\obj\x86\Debug\final_prjct.Form2.resources
+C:\Users\Shaa riya\documents\visual studio 2010\Projects\final prjct (sharia atif bs3A)\final prjct (sharia atif bs3A)\obj\x86\Debug\final_prjct.loginfrm.resources
+C:\Users\Shaa riya\documents\visual studio 2010\Projects\final prjct (sharia atif bs3A)\final prjct (sharia atif bs3A)\obj\x86\Debug\final_prjct.newcust.resources
+C:\Users\Shaa riya\documents\visual studio 2010\Projects\final prjct (sharia atif bs3A)\final prjct (sharia atif bs3A)\obj\x86\Debug\final_prjct.Properties.Resources.resources
+C:\Users\Shaa riya\documents\visual studio 2010\Projects\final prjct (sharia atif bs3A)\final prjct (sharia atif bs3A)\obj\x86\Debug\final_prjct.schduleevnt.resources
+C:\Users\Shaa riya\documents\visual studio 2010\Projects\final prjct (sharia atif bs3A)\final prjct (sharia atif bs3A)\obj\x86\Debug\final prjct (sharia atif bs3A).csproj.GenerateResource.Cache
+C:\Users\Shaa riya\documents\visual studio 2010\Projects\final prjct (sharia atif bs3A)\final prjct (sharia atif bs3A)\bin\Debug\final prjct (sharia atif bs3A).exe
+C:\Users\Shaa riya\documents\visual studio 2010\Projects\final prjct (sharia atif bs3A)\final prjct (sharia atif bs3A)\bin\Debug\final prjct (sharia atif bs3A).pdb
+C:\Users\Shaa riya\documents\visual studio 2010\Projects\final prjct (sharia atif bs3A)\final prjct (sharia atif bs3A)\obj\x86\Debug\final prjct (sharia atif bs3A).exe
+C:\Users\Shaa riya\documents\visual studio 2010\Projects\final prjct (sharia atif bs3A)\final prjct (sharia atif bs3A)\obj\x86\Debug\final prjct (sharia atif bs3A).pdb
+C:\Users\Shaa riya\documents\visual studio 2010\Projects\final prjct (sharia atif bs3A)\final prjct (sharia atif bs3A)\obj\x86\Debug\final prjct (sharia atif bs3A).csprojResolveAssemblyReference.cache
+C:\Users\Shaa riya\documents\visual studio 2010\Projects\final prjct (sharia atif bs3A)\final prjct (sharia atif bs3A)\obj\x86\Debug\final_prjct.conection_form.resources
+C:\Users\Shaa riya\Desktop\final prjct (sharia atif bs3A)\final prjct (sharia atif bs3A)\obj\x86\Debug\final prjct (sharia atif bs3A).exe

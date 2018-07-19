@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{14F45AC3-5A34-4AC9-80AB-4D0DB3A339F1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>final_prjct</RootNamespace>
+    <AssemblyName>final prjct %28sharia atif bs3A%29</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addevnt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addevnt.Designer.cs">
+      <DependentUpon>addevnt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="conection form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="conection form.Designer.cs">
+      <DependentUpon>conection form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="custrecd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="custrecd.Designer.cs">
+      <DependentUpon>custrecd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="evntfees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="evntfees.Designer.cs">
+      <DependentUpon>evntfees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="evntinfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="evntinfo.Designer.cs">
+      <DependentUpon>evntinfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="loginfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loginfrm.Designer.cs">
+      <DependentUpon>loginfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newcust.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newcust.Designer.cs">
+      <DependentUpon>newcust.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="schduleevnt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="schduleevnt.Designer.cs">
+      <DependentUpon>schduleevnt.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="addevnt.resx">
+      <DependentUpon>addevnt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="conection form.resx">
+      <DependentUpon>conection form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="custrecd.resx">
+      <DependentUpon>custrecd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="evntfees.resx">
+      <DependentUpon>evntfees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="evntinfo.resx">
+      <DependentUpon>evntinfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loginfrm.resx">
+      <DependentUpon>loginfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newcust.resx">
+      <DependentUpon>newcust.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="schduleevnt.resx">
+      <DependentUpon>schduleevnt.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG_1096.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG_10961.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\th.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
